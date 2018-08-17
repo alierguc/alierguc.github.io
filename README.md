@@ -1,3 +1,3 @@
 # alierguc.github.io
-<h1>Kişisel Blog Sayfası</h1>
-<h2>Desing by Colorlib</h2>
+<h2>Kişisel Blog Sayfası</h2>
+<h3>Desing by Colorlib</h3>
